@@ -13,9 +13,6 @@ It utilizes the `rembg` library for background removal and allows users to uploa
 - rembg
 - PIL (Pillow)
 
-## Installation
-1. Install dependencies
-
 ## Usage
 1. Run the Flask application.
 2. Open your web browser and navigate to [http://localhost:5000/](http://localhost:5000/).
